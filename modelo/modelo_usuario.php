@@ -1,6 +1,5 @@
 <?php
 
-
 class Modelo_Usuario{
     private $conexion;
     function __construct(){
@@ -149,9 +148,6 @@ function Modificar_Estatus_Usuario($idusuario,$estatus){
           return 0;
         }
   }
-    
-    
-     
 
 
   function Datos_Usuario_eliminar( $idusuario){

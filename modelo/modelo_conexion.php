@@ -8,7 +8,7 @@
 		public function __construct(){
 		    $this->servidor = "localhost";
 			$this->usuario = "root";
-			$this->contrasena = "oracle";
+			$this->contrasena = "dioner321";
 			$this->basedatos = "newsistem";
 		}
 		function conectar(){

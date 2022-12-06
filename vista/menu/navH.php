@@ -38,6 +38,14 @@
             </span>
           </a>
         </li> 
+        <li class=" treeview">
+          <a onclick="cargar_contenido('contenido_principal','docente/vista_docente_listar.php')">
+            <i class="glyphicon glyphicon-user"></i> <span style="cursor: pointer;">Docente</span>
+            <span class="pull-right-container">
+              <i class="fa fa-angle-left pull-right"></i>
+            </span>
+          </a>
+        </li>
 
         <style type="text/css">
           .treeview-menu li a:hover{
