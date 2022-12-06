@@ -63,6 +63,7 @@
 
             <ul class="treeview-menu">
                   <li><a  onclick="cargar_contenido('contenido_principal','docente/vista_docente_listar.php')"style="cursor: pointer;"><i class="fa fa-circle-o"></i> Docente</a></li>
+ <li><a  onclick="cargar_contenido('contenido_principal','docente/vista_congif_docente.php')"style="cursor: pointer;"><i class="fa fa-circle-o"></i>Asignaciones</a></li>
                    
               </ul>
           </a>
